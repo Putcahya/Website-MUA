@@ -1,2 +1,2 @@
 # Website-MUA
-website ini dibuat dengen PHP native
+Repositori ini berisi tugas sekolah membuat CRUD dengan PHP Native.
