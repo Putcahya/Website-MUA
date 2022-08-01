@@ -1,2 +1,2 @@
 # Website-MUA
-Repositori ini berisi tugas sekolah membuat CRUD dengan PHP Native.
+Repository ini berisi tugas sekolah membuat CRUD dengan PHP Native.
